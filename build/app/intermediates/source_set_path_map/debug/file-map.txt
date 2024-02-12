@@ -1,0 +1,14 @@
+com.example.flutter_application_2.app-jetified-annotation-experimental-1.1.0-0 C:\Users\TheGenius\.gradle\caches\transforms-3\198c1ec0b1199ddfd2999580ded74c08\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.flutter_application_2.app-jetified-window-java-1.0.0-beta04-1 C:\Users\TheGenius\.gradle\caches\transforms-3\2f9314551cc6dcb1f80e4c2b43419b63\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.flutter_application_2.app-core-1.6.0-2 C:\Users\TheGenius\.gradle\caches\transforms-3\509d84cfb4d6ae34ac164753eee294c6\transformed\core-1.6.0\res
+com.example.flutter_application_2.app-jetified-window-1.0.0-beta04-3 C:\Users\TheGenius\.gradle\caches\transforms-3\9169574be361bd6b4dbbf6872ca0379c\transformed\jetified-window-1.0.0-beta04\res
+com.example.flutter_application_2.app-debug-4 D:\login-main\android\app\src\debug\res
+com.example.flutter_application_2.app-main-5 D:\login-main\android\app\src\main\res
+com.example.flutter_application_2.app-pngs-6 D:\login-main\build\app\generated\res\pngs\debug
+com.example.flutter_application_2.app-resValues-7 D:\login-main\build\app\generated\res\resValues\debug
+com.example.flutter_application_2.app-rs-8 D:\login-main\build\app\generated\res\rs\debug
+com.example.flutter_application_2.app-mergeDebugResources-9 D:\login-main\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.flutter_application_2.app-mergeDebugResources-10 D:\login-main\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.flutter_application_2.app-merged_res-11 D:\login-main\build\app\intermediates\merged_res\debug
+com.example.flutter_application_2.app-packaged_res-12 D:\login-main\build\path_provider_android\intermediates\packaged_res\debug
+com.example.flutter_application_2.app-packaged_res-13 D:\login-main\build\shared_preferences_android\intermediates\packaged_res\debug
